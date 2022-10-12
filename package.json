@@ -1,0 +1,18 @@
+{
+  "name": "booru-search-image",
+  "version": "1.0.0",
+  "description": "for search image",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node-dev --watch ./src --transpile-only ./src/index.ts"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "NikEvs",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.8.4",
+    "typescript": "^4.8.4"
+  }
+}
